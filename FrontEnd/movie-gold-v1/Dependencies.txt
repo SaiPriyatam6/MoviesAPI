@@ -1,0 +1,22 @@
+//For HTTP requests
+npm install axios
+
+//Bootstrap for layout and styling purposes
+npm install bootstrap
+npm install react-bootstrap
+
+//enables us to install font awesome
+npm i @fortawesome/react-fontawesome
+npm i @fortawesome/free-solid-svg-icons
+
+//To play movie trailers, we use react player
+npm install react-player
+
+npm install react-router-dom
+
+//To implement carousal
+npm install @mui/material @emotion/react @emotion/styled
+npm install react-material-ui-carousal
+
+
+
